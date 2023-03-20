@@ -5,7 +5,7 @@
 - [福井の地盤マップ](https://geofukui.github.io/jiban-map/)  ([GitHub](https://github.com/geofukui/jiban-map))
 - [旧、福井の地盤オープンデータマップ](https://geofukui.github.io/jiban-opendata/boring.html)  ([GitHub](https://github.com/geofukui/jiban-opendata))
 - [Geo Search FUKUI](https://geofukui.github.io/Geo-Search-FUKUI/) ([GitHub](https://github.com/geofukui/Geo-Search-FUKUI))
-- [福井地盤ダウンロードセンター](https://geofukui.github.io/jiban-download-center/) [GitHub](https://github.com/GeoFUKUI/jiban-download-center)
+- [福井地盤ダウンロードセンター](https://jiban.deno.dev/) [GitHub](https://github.com/GeoFUKUI/jiban-download-center)
 
 ## オープンデータ
 
